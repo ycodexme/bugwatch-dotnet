@@ -16,3 +16,5 @@ vendor/
 *.a
 pkg/
 Cargo.lock
+**/bin/
+**/obj/
