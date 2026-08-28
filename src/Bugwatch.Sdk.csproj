@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Bugwatch</RootNamespace>
+    <AssemblyName>Bugwatch.Sdk</AssemblyName>
+    <Version>0.1.0</Version>
+    <PackageId>Bugwatch.Sdk</PackageId>
+    <Authors>ROOMY AI LLC</Authors>
+    <Description>Official .NET SDK for Bugwatch error tracking (zero-dependency)</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <LangVersion>12</LangVersion>
+  </PropertyGroup>
+
+</Project>

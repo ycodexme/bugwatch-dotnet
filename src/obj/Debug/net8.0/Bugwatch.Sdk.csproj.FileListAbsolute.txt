@@ -1,0 +1,11 @@
+/home/ubuntu/bugwatch/sdk/dotnet/src/bin/Debug/net8.0/Bugwatch.Sdk.deps.json
+/home/ubuntu/bugwatch/sdk/dotnet/src/bin/Debug/net8.0/Bugwatch.Sdk.dll
+/home/ubuntu/bugwatch/sdk/dotnet/src/bin/Debug/net8.0/Bugwatch.Sdk.pdb
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/Bugwatch.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/Bugwatch.Sdk.AssemblyInfoInputs.cache
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/Bugwatch.Sdk.AssemblyInfo.cs
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/Bugwatch.Sdk.csproj.CoreCompileInputs.cache
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/Bugwatch.Sdk.dll
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/refint/Bugwatch.Sdk.dll
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/Bugwatch.Sdk.pdb
+/home/ubuntu/bugwatch/sdk/dotnet/src/obj/Debug/net8.0/ref/Bugwatch.Sdk.dll
