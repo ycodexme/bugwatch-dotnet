@@ -18,3 +18,5 @@ pkg/
 Cargo.lock
 **/bin/
 **/obj/
+artifacts/
+*.nupkg

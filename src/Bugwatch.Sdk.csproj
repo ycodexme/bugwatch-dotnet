@@ -11,7 +11,12 @@
     <Authors>ROOMY AI LLC</Authors>
     <Description>Official .NET SDK for Bugwatch error tracking (zero-dependency)</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <LangVersion>12</LangVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
 
 </Project>

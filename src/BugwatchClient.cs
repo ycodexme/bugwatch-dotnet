@@ -98,7 +98,6 @@ public sealed class BugwatchClient : IDisposable
         var projectId = hostPath[(lastSlash + 1)..];
         if (!long.TryParse(projectId, out _))
             throw new ArgumentException($"invalid project id in DSN: {dsn}");
-        var basePath = hostPath[..lastSlash];
         return new ParsedDsn(scheme, $"{scheme}://{hostPath}/store/", key);
     }
 
